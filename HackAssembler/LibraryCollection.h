@@ -1,0 +1,9 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <cctype>
+#include <stdexcept>
+#include <bitset>
+#include <algorithm>
+#include <unordered_map>
